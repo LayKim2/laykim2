@@ -25,3 +25,64 @@ Please feel free to contact me!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+🛠 Side Projects
+ProjectPeriodRoleStackPTO Management System2023.08 – 2024.04SoloBlazor, AzureReelstamp2025.11 – 2026.02FE + BEReact, Spring, PythonBooquest2025.08 – 2025.11FEFlutterAIrang2025.04 – 2025.07SoloReact, Supabase, VercelNewFace2024.05 – 2024.09BEC# .NET Core, AWSZipple2024.05 – 2024.09BEJava, Spring, AWS
+
+🗓 PTO Management System
+
+In-house leave management system — Solo end-to-end (plan → build → deploy → operate)
+
+
+Blazor WebAssembly SPA · Azure App Service deployment
+Admin / employee role separation, automatic annual leave calculation (WebJob)
+Azure AD SSO integration
+Currently in production for 2+ years
+
+
+🎬 Reelstamp
+
+AI-powered Reels creation service
+
+
+Frontend (React) · partial Backend (Spring / Python AI)
+Subscription-based payment integration · Pay APP connected
+Chrome Extension for Reels data collection
+Background AI job polling for async video generation UX
+
+
+📱 Booquest
+
+AI side-hustle recommendation & monetization quest mobile app
+
+
+Flutter frontend development
+Quest list & detail views based on AI recommendation results
+
+
+🤝 AIrang
+
+Community platform for AI service creators — Solo fullstack
+
+
+Group chat with Supabase Realtime
+Vercel deployment · Supabase Auth & DB integration
+
+
+🎭 NewFace
+
+Platform connecting unknown actors with entertainment agencies
+
+
+Actor profile CRUD API design & implementation
+AWS infrastructure setup & deployment configuration
+
+
+🏠 Zipple
+
+All-in-one moving service platform
+
+
+Collaborated with licensed real estate agents on planning
+Backend design & development with Java / Spring · AWS
